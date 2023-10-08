@@ -6,27 +6,27 @@ contextual_preds = []
 general_gold_labels = []
 special_gold_labels = []
 
-with open("output/generalQ_gold_labels.txt.txt", 'r', encoding='utf-8') as f:
+with open("output/generalQ_gold_labels.txt", 'r', encoding='utf-8') as f:
     for line in f.readlines():
         general_gold_labels.append(line.strip())
 
-with open("output/specialQ_gold_labels.txt.txt", 'r', encoding='utf-8') as f:
+with open("output/specialQ_gold_labels.txt", 'r', encoding='utf-8') as f:
     for line in f.readlines():
         special_gold_labels.append(line.strip())
 
-with open("output/GPT3_general_pureQ_pred_labels.txt", 'r', encoding='utf-8') as f:
+with open("output/GPT3_general_plainQ_pred_labels.txt", 'r', encoding='utf-8') as f:
     for line in f.readlines():
         original_preds.append(line.strip())
 
-with open("output/GPT3_general_TS_pred_labels.txt", 'r', encoding='utf-8') as f:
+with open("output/GPT3_general_Exact_Size_Information+Q_pred_labels.txt", 'r', encoding='utf-8') as f:
     for line in f.readlines():
         contextual_preds.append(line.strip())
 
-# with open("output/GPT3_special_pureQ_pred_labels.txt", 'r', encoding='utf-8') as f:
+# with open("output/GPT3_special_plainQ_pred_labels.txt", 'r', encoding='utf-8') as f:
 #     for line in f.readlines():
 #         original_preds.append(line.strip())
 
-# with open("output/GPT3_special_TS_pred_labels.txt", 'r', encoding='utf-8') as f:
+# with open("output/GPT3_special_Exact_Size_Information+Q_pred_labels.txt", 'r', encoding='utf-8') as f:
 #     for line in f.readlines():
 #         contextual_preds.append(line.strip())
 
