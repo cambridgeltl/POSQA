@@ -1,0 +1,646 @@
+{
+ "1": {
+  "scale": "13.8 billion ly",
+  "size": "1.38×10^26",
+  "magnitude": "26",
+  "name": "Universe",
+  "text": "In 2013, the European Space Agency (ESA) announced that the universe is 13.8 billion years old, approximately 100 million years older than previously announced. Based on its latest observation of cosmic background radiation, the outer limit of the universe we can fathom today is 13.8 billion light years away. The universe was born from the Big Bang, an explosion of mind-bogglingly intense energy. Although appearing to stand still, it is,        even at this very moment, filled with a dynamic continuum of intergalactic collisions and supernova explosions."
+ },
+ "2": {
+  "scale": "6 million ly",
+  "size": "6×10^22",
+  "magnitude": "22",
+  "name": "Local Group of Galaxy",
+  "text": "A collection of dozens of galaxies is called a local group of galaxies. Members of the local group of galaxies containing the Milky Way include the Andromeda Galaxy M31 which is twice the size of the Milky Way, as well as the Large Magellanic Cloud and Small Magellanic Cloud which are large groups of stars near the Milky Way. The Andromeda Galaxy is 2.3 million, the Large Magellanic Cloud is 160 thousand and the Small Magellanic Cloud is 200 thousand light years approximately away from the Milky Way. They may be 'near' in astronomical terms, but are actually separated by incredible distances. The diameter of the local group of galaxies is approximately 6 million light years."
+ },
+ "3": {
+  "scale": "100 thousand ly",
+  "size": "1×10^21",
+  "magnitude": "21",
+  "name": "The Milky Way",
+  "text": "The galaxy to which the Solar System belongs. It contains roughly 200 billion fixed stars. The central thick area is called the bulge, and the surrounding flat area, the disc. A high-temperature cluster of gas called the halo surrounds the galaxy in a spherical shape. The Solar System is located on the disc about 30 thousand light years away from the center. The galaxy was first observed through telescope by the famous Galileo Galilei."
+ },
+ "4": {
+  "scale": "30 ly",
+  "size": "3×10^17",
+  "magnitude": "17",
+  "name": "Diffuse nebula",
+  "text": "A nebula visible to the naked eye close to the three aligned stars of the Orion. It is approximately 1500 light years from the Sun and is shaped like a bird with spread wings. The distance from the tip of one wing to the other is about 30 light years. This nebula actually consists of the glowing of interstellar gas, and it is known to contain many newborn stars."
+ },
+ "5": {
+  "scale": "9 billion km",
+  "size": "9×10^12",
+  "magnitude": "12",
+  "name": "Solar System",
+  "text": "The Solar System consists of the central Sun, eight planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune), dwarf planets including Pluto and smaller celestial bodies. The distance from the Sun to Neptune, the farthest planet from the Sun, is about 4.5 billion km. The Solar System was formed about 4.6 billion years ago when interstellar clouds, which were floating in space, were pulled together by gravity and began to rotate, pulling mass into the center to form a primordial solar nebula. The other planets are believed to have formed from the gas and dust which remained in the surrounding area."
+ },
+ "6": {
+  "scale": "1.39 million km",
+  "size": "1.39×10^9",
+  "magnitude": "9",
+  "name": "The Sun",
+  "text": "The Sun, which showers many blessings on the Earth, is large enough for more than 110 Earths to be lined up along its equator. Its mass is the equivalent of 330 thousand Earths. It has a core temperature of approximately 15 million degrees Celsius, and a surface temperature of approximately 6,000 degrees Celsius. The black spots, which form in strong magnetic fields, are somewhat cooler at about 3,700 degrees Celsius. Plasma, emitted by the Sun, reaches the earth to trigger auroras. In about 5 billion years, the Sun is expected to deplete its hydrogen supply and become a red giant, expand and then finally cool down."
+ },
+ "7": {
+  "scale": "142,984 km",
+  "size": "1.42984×10^8",
+  "magnitude": "8",
+  "name": "Jupiter",
+  "text": "Jupiter, with its beautiful stripes, is the largest planet in the Solar System and is a typical gaseous planet. Its diameter is about 11 times that of Earth and its volume about 1300 times. Its rotational speed is the fastest among the planets, at 9 hours and 56 minutes per revolution. Near the equator on the southern hemisphere of Jupiter, there is a gigantic atmospheric swirl called the Great Red Spot. In the late 19 century, this giant swirl had a diameter stretching 40,000 km, matching the distance of three Earths. However, observations in 2014 indicate it has shrunk to a diameter of about 16,500 km and is growing smaller every year."
+ },
+ "8": {
+  "scale": "120,536 km",
+  "size": "1.2536×10^8",
+  "magnitude": "8",
+  "name": "Saturn",
+  "text": "A giant gaseous planet, like Jupiter, positioned sixth from the Sun. Its most prominent feature, its large surrounding rings, were first discovered by Galileo Galilei. As telescopes of the times were primitive by today's standards, Galileo described Saturn as having ears in his notebook. Saturn's rings consist mainly of ice and rock particles, and rotate faster towards the inside (planet side) of the rings. In addition, Saturn has many satellites, of which the most famous, Titan, has a diameter of about 5,150 km."
+ },
+ "9": {
+  "scale": "51,118 km",
+  "size": "5.1118×10^7",
+  "magnitude": "7",
+  "name": "Uranus",
+  "text": "The seventh planet of the Solar System, accidentally discovered in 1781 by William Herschel of England. Its most unusual feature is its rotational axis which is tilted 98 degrees from the orbital axis, orbiting around the Sun almost toppled over sideways. It is believed that shortly after Uranus was born, it collided with a giant celestial body causing its rotational axis to tip over. Cloud movements observed by Voyager 2 in 1986 demonstrated that a violent wind in the range of 7,900 km per hour blows on Uranus."
+ },
+ "10": {
+  "scale": "49,528 km",
+  "size": "4.9528×10^7",
+  "magnitude": "7",
+  "name": "Neptune",
+  "text": "The eighth planet in the Solar System, discovered through the powers of mathematics. Following the discovery of Uranus in 1781, it was found that its actual observed orbit deviated from the theoretical orbit derived from Newton's law of gravity. Mathematicians John Adams and Urbain Le Verrier hypothesized that this was caused by Uranus' orbit being disrupted by the gravitational pull of an unknown planet. They calculated the location of this new planet. In 1846, Galle at a German observatory, made a search based on their calculations and finally discovered Neptune."
+ },
+ "11": {
+  "scale": "12,756 km",
+  "size": "1.2756×10^7",
+  "magnitude": "7",
+  "name": "The Earth",
+  "text": "The planet on which mankind lives, the only aqueous planet in the Solar System, positioned third from the sun. The atmospheric layer, consisting mainly of nitrogen and oxygen, stores heat from the sun while the ozone layer, approximately 25-40 km above the ground, absorbs hazardous UV rays. There are currently many serious environmental issues such as the rising temperatures due to carbon dioxide emissions (global warming) and the destruction of the ozone layer by chlorofluorocarbons. The orbital period of the Earth is approximately 365.25 days, and its period of rotation is an average 23.93 hours. It experiences seasonal changes owing to the tilt of its rotational axis."
+ },
+ "12": {
+  "scale": "12,104 km",
+  "size": "1.2104×10^7",
+  "magnitude": "7",
+  "name": "Venus",
+  "text": "Venus, familiarly referred to as the morning or evening star. Because of its similarity in size to the Earth, Venus has, in the past, been theorized to be Earth's twin planet. However, investigations revealed that Venus, with a surface temperature of about 465 degrees Celsius, has an environment completely unlike that of the Earth. Starting with Venera 1 of the former Soviet Union in 1961, a great number of probe spacecraft have been launched, only to be destroyed by the high temperatures and pressure in the range of 90 times that of Earth. Venera 7 became the first to successfully land in 1970."
+ },
+ "13": {
+  "scale": "6,792 km",
+  "size": "6.792×10^6",
+  "magnitude": "6",
+  "name": "Mars",
+  "text": "In Europe, Mars was named after Mars, the god of war, from the auburn glow of its surface which is suggestive of blood. It is about half the size of the Earth. In 1894, an American businessman named Percival Lowell announced that the striations seen on the surface of Mars consisted of waterways built by a sophisticated civilization. However, this 'Martian' theory was later disclaimed by research. Mars features diverse geological formations, including a volcano 25,000 m in height and a giant canyon 4,000 km long."
+ },
+ "14": {
+  "scale": "4,880 km",
+  "size": "4.88×10^6",
+  "magnitude": "6",
+  "name": "Mercury",
+  "text": "Mercury, the second smallest planet in the Solar System next to Pluto with a diameter of approximately 4,880 km (about two fifths that of the Earth). Its orbital period is short at 88 days while in contrast, its rotational period is long at 59 days. Therefore, a single solar day lasts for 176 days, with daytime temperatures as high as 427 degrees Celsius, dropping to -183 degrees Celsius at night. Although Mercury used to be shrouded in mystery, the American Mariner 10, launched in 1973 revealed facts such as the existence of giant craters 1,300 km in diameter."
+ },
+ "15": {
+  "scale": "3,476 km",
+  "size": "3.476×10^6",
+  "magnitude": "6",
+  "name": "The Moon",
+  "text": "The Moon is Earth's only satellite and the celestial body closest to the Earth. It is about one fourth the size of the Earth. The difference between these two sizes is often likened to the difference in size between a table tennis ball (40 mm) and a pinball (11 mm). There are countless craters on the Moon's surface, said to number over 300 thousand just on the side facing the Earth. Soil (and rock) samples were brought back to Earth in the voyage to the moon made in 1969 by Captain Armstrong and his crew of the Apollo 11, who took the first step on the moon in the history of mankind. Surveillance studies of the moon continue to this day."
+ },
+ "16": {
+  "scale": "8,848 m",
+  "size": "8.844×10^3",
+  "magnitude": "3",
+  "name": "Mount Everest",
+  "text": "The highest mountain in the world, towering on the border between Nepal and the Tibet Autonomous Region of China. The Tibetan name \"Chomolungma\" means \"Goddess of the Earth\" or \"Mother Goddess of the World.\" The English name \"Everest\" comes from the British surveyor George Everest, known for his precise trigonometric survey of the Indian subcontinent. An expedition team from India measured the mountain's height, including the snowcap, as 8,848 m in 1955. The height excluding the snowcap was found to be 8,844.43 m by China's State Bureau of Surveying and Mapping in 2005."
+ },
+ "17": {
+  "scale": "3,776 m",
+  "size": "3.776×10^3",
+  "magnitude": "3",
+  "name": "Mount Fuji",
+  "text": "Not only is it the highest mountain in Japan, but it has been worshiped as a spiritual peak since ancient times. It was formed through eruption. Roughly 11 thousand years ago, an explosion occurred on the west side of the peak of Old Fuji, and the Mount Fuji we know today (New Fuji) was formed from the multitudes of lava which gushed out at the time. Later, the Old Fuji and New Fuji were stood side-by-side, but an avalanche caused by weathering destroyed the Old Fuji, leaving the New Fuji to remain standing as we see it today."
+ },
+ "18": {
+  "scale": "979 m",
+  "size": "9.79×10^2",
+  "magnitude": "2",
+  "name": "Angel Falls",
+  "text": "A waterfall boasting the largest height for any single-drop fall in the world. It is located approximately 250 km south-southeast of the state capital, Ciudad Bolivar on the Zurn River, a tributary of the Caroni River, and drops almost vertically from the Auyan-Tepui table mountains located in the central Guiana Highlands. Due to the length of the drop, the falling water turns to mist in midair, thus it is also known as a waterfall with no basin. The waterfall is named after the American explorer James Angel who discovered it in 1937."
+ },
+ "19": {
+  "scale": "348 m",
+  "size": "3.48×10^2",
+  "magnitude": "2",
+  "name": "Ayers Rock",
+  "text": "One of the world's largest monoliths. It has a perimeter of about 9000 m and reaches to a height of approximately 867 m above sea level (about 348 m above the ground). From its majestic appearance in the middle of the desolate desert, it is referred to as \"the navel of the earth.\" The site was sacred for the aborigines, who called this giant rock \"Uluru.\" There are numerous mural paintings depicting legends of the Anangu tribe on the rock's walls. The rock changes color from orange to red to purple as the sun moves across the sky."
+ },
+ "20": {
+  "scale": "828 m",
+  "size": "8.28×10^2",
+  "magnitude": "2",
+  "name": "Burj Khalifa",
+  "text": "This is the tallest building in the world, which stands in Dubai, the largest city in UAE. The height from the ground to its spire is 828 meters, and it has more than 160 stories. Burj is an Arabic word meaning \"tower,\" and Khalifa is taken from the name of the president of the UAE, who is recognized for his service in the construction of the building. The tower, whose design was inspired by a flower named Hymenocallis, centers around the core structure with 3 wings hanging out in a Y-spiral. The building not only has an aesthetic appearance but also has an outstanding structure from the perspective of functionality such as strength, ease of construction and cost."
+ },
+ "21": {
+  "scale": "443.2 m",
+  "size": "4.43×10^2",
+  "magnitude": "2",
+  "name": "Empire State Building",
+  "text": "A skyscraper located on Fifth Avenue in Manhattan, designed by the architectural firm of Shreve, Lamb & Harmon in response to a request by Pierre, a fourth-generation Dupont. Plans were drawn up during the robust economy of the 1920's, but construction work was not actually initiated until 1930 following the Great Depression. Although it may seem hard to believe, when it was first built, it was short of tenants and virtually empty for some time. At 102 floors and 381m high, it reigned as the highest building in the world until it lost its position to Sears Tower."
+ },
+ "22": {
+  "scale": "157 m",
+  "size": "1.57×10^2",
+  "magnitude": "2",
+  "name": "Cologne Cathedral",
+  "text": "Its official name is Dom St. Peter und Maria. The cathedral is the largest German gothic architecture in the world. Its construction started in 1248 after being commissioned by the archbishop, but required centuries for its completion. A portion of the interior was completed in 1320, but the stained glass windows took from the beginning of the 14th century to the 16th century, while construction of the transept spanned from 1322 to the end of the 15th century. Construction work was suspended once in 1560, but was resumed in 1842 upon the orders of the king of Bayern and was completed in 1880 after more than 600 years. Its twin towers are 157 m high and approximately 61 m wide."
+ },
+ "23": {
+  "scale": "147 m",
+  "size": "1.47×10^2",
+  "magnitude": "2",
+  "name": "Pyramid",
+  "text": "Giant quadrangular pyramid constructions built around 3000 B.C. in ancient Egypt. There are various theories regarding the purpose of their construction, including those that claim they were tombs of kings, or public works projects during the agricultural off season. The world's tallest pyramid is the primary pyramid of King Khufu standing on the Giza Plateau. It is 147 m high, with each side of the base being 230 m long. Roughly 2.3 million stones weighing about 2.5 tons each were used in its construction. One of the many remaining mysteries of the pyramid is the precision of its dimensions. The discrepancy between the four bases of the pyramid is only 50 cm, which corresponds to just 0.2 mm error per meter, suggesting the existence of sophisticated engineering and measurement technology."
+ },
+ "24": {
+  "scale": "135 m",
+  "size": "1.35×10^2",
+  "magnitude": "2",
+  "name": "Ferris wheel",
+  "text": "The \"London Eye,\" one of the world's largest ferris wheels, stands on the south shore of the Thames River across from the London County Hall at a height of 135 meters and weighing 1900 tons. It was built as part of Britain's millennium project. A giant 25-person capsule takes you on a pleasant aerial voyage, traveling full circle in about 30 minutes. In midair, you have a panoramic view of such London landmarks as Big Ben, Buckingham Palace and Saint Paul's Cathedral. On a sunny day, this view may reach as far as 40 kilometers. In March 2008, the record for the world's largest Ferris wheel was broken by the \"Singapore Flyer\" in Singapore, standing at a height of 165 meters."
+ },
+ "25": {
+  "scale": "93 m",
+  "size": "9.3×10^1",
+  "magnitude": "1",
+  "name": "Statue of Liberty",
+  "text": "The symbol of freedom which dominates Liberty Island, New York. Created by the French sculptor Bartholdi, it was presented to the USA. by France in 1886 to celebrate the 100th anniversary of the independence of the United States. The Statue is approximately 46 m high standing on a pedestal of 47 m, and weighs roughly 250 tons. She carries a torch in the right hand and the Declaration of Independence in the left. With her left foot, she steps on the chains of tyranny. The seven spikes in her crown represent the seas and continents of the world, spreading the message of freedom throughout the world."
+ },
+ "26": {
+  "scale": "83 m",
+  "size": "8.3×10^1",
+  "magnitude": "1",
+  "name": "Coast Redwood",
+  "text": "The world's largest tree. There are huge Redwood and Sequoia trees on the west coast of North America, some of which live for over 3000 years. The largest tree in the world is named General Sherman and is growing wild in the Sequoia National Park at approximately 83 m high with a diameter of 11 m, and is estimated to be 2100 years old. The volume of the trunk was 1,487 cubic meters in 1980, and is said to have reached 1500 cubic meters as of now. A forest of over 30 giant Sequoia trees extends throughout the park."
+ },
+ "27": {
+  "scale": "70.6 m",
+  "size": "7.06×10^1",
+  "magnitude": "1",
+  "name": "Jumbo jet airplane",
+  "text": "Flying from city to city worldwide, the jet-engine plane has changed our concepts of distance and time with its high speed and transportation capacity. In the 1970's, aircraft of a larger scale were developed in response to the sudden increase in demand for the air transportation of passengers and cargo together with the overcrowding of airports. The Boeing 747 was one such plane and, with repeated upgrades since its first flight in 1969, it still crisscrosses the skies today. The initial 747-100 model has a body length of 70.6 m, a wingspan of 59.6 m, a tailplane tip 19 meters above the ground and is familiarly referred to as the \"Jumbo\" from its size, load capacity and power."
+ },
+ "28": {
+  "scale": "50 m",
+  "size": "5×10^1",
+  "magnitude": "1",
+  "name": "Triumphal arch",
+  "text": "The triumphal arch which stands in the Place Charles De Gaulle in Paris, France. Its construction was started in 1806 as a monument to Napoleon's conquests, and was completed in 1836. It boasts a height of 50 m and width of 45m, and is adorned with various relief sculptures, such as \"The Departure of the Volunteers of 1792,\" a masterpiece by sculptor Rude, as well as works by romanticist sculptors. Inside, there is a resting place for an unknown soldier and even now, at 6:30 every evening, a memorial flame is lit. Centering on the Arc de Triomphe, twelve main streets, including the Champs Elysees radiate out in all directions and from the top, a panoramic view of the modern city of Paris can be seen."
+ },
+ "29": {
+  "scale": "20 m",
+  "size": "2×10^1",
+  "magnitude": "1",
+  "name": "Sphinx",
+  "text": "An imaginary creature with the body of a lion and the head of a man. It was regarded as the symbol of \"the mysteries of life, ignorance, and evil\" in medieval Europe, as it had proposed a riddle to Oedipus in Greek myth. It dates back to the earliest era of Egyptian civilization. The Sphinx, which sits in front of the pyramids of Giza, at 73 m in length and 20 m in height, is the world's largest and oldest statue. The lion symbolizes Pharaoh (the king) while the king's headdress (Nemes) on the human head symbolizes power. It is believed to have been modeled after King Khafre himself, who ruled in the Fourth Dynasty around the year 2600 before Christ."
+ },
+ "30": {
+  "scale": "33.6 m",
+  "size": "3.36×10^1",
+  "magnitude": "1",
+  "name": "Whale",
+  "text": "A large ocean mammal. Presently, about 82 species have been identified. Of these, the Blue Whale is the largest in the world. Measurements as large as approximately 33.6 m full length and weight of around 190 tons have been recorded. Melville, the author of the literary work \"Moby-Dick: or, the White Whale\" likened the greatness and power of the whale to the destructive power of the universe. Research into the mechanisms of the high intelligence and communication abilities possessed by many whales is currently in progress."
+ },
+ "31": {
+  "scale": "4.4 m",
+  "size": "4.4×10^0",
+  "magnitude": "0",
+  "name": "Double deck bus",
+  "text": "Although double decker buses can be seen in various countries worldwide, the most well known is the Double Decker of London. It was successfully put into service for the first time in London in 1910. The following year, the route carriages that had been the main means of transportation were forced to be abolished. In the following year, horse traffic, hitherto main public transportation of London, was replaced by the buses, and disappeared from London. The 4.4 m high, bowler-hat-shaped roly-poly Routemaster, in particular, with its charming bright red body, became a symbol of London. The Routemasters have long been one of the most popular public transportation among both locals and tourists. The Routemasters have been replaced by the new Bendy buses in 2005, however, they have not completely disappeared, as they still run in the heritage routes today."
+ },
+ "32": {
+  "scale": "5.88 m",
+  "size": "5.88×10^0",
+  "magnitude": "0",
+  "name": "Giraffe",
+  "text": "The tallest of the land mammals. There is an anecdote saying that during Creation, the gods were hard pressed for ideas and so gathered the left-over odd body parts which they put together to make the giraffe. Its peculiar shape, with its long neck and short torso, front legs that are longer than the hind legs, are testimony to the efforts of evolution in trying to adapt itself to its natural environment. The largest giraffe on record was a male Masai giraffe named George, brought to England from Kenya in 1959, who stood 5.88 m tall."
+ },
+ "33": {
+  "scale": "3 m",
+  "size": "3×10^0",
+  "magnitude": "0",
+  "name": "Elephant",
+  "text": "The largest land animal in the world. It has an elongated upper lip, a dexterous trunk and large ears, and leisurely roams the forests and Savannah of Africa, India and Southeast Asia. It is highly intelligent and docile despite its mighty form, thus has been close to man religiously and culturally, in various regions of the world for over 1000 years. However, due to overexploitation for their ivory tusks, the numbers of elephants are decreasing. Of large African elephants, there is one on record for weighing roughly 10 tons, with shoulder height at about 4 m (about 3 m is the average), in Angola in 1955."
+ },
+ "34": {
+  "scale": "2.5 m",
+  "size": "2.5×10^0",
+  "magnitude": "0",
+  "name": "Ostrich",
+  "text": "The largest species of all present-day living birds. It inhabits Africa. Although it has wings it cannot fly, but runs at 60 km per hour or faster upon sensing danger. The male is about 2.5 m in head height and weighs about 150 kg. It also lays the largest egg of all birds. A large egg may measure 15 cm in diameter and weigh 1,600 g. The ostrich is polygamous with 3-5 females each laying 4-8 eggs in the nest made by the one male. These many eggs are kept and protected by one male alone at night, and by several females in turns by day."
+ },
+ "35": {
+  "scale": "2-3 m",
+  "size": "2×10^0",
+  "magnitude": "0",
+  "name": "Sunflower",
+  "text": "An annual plant native to North America, comprising approximately 160 varieties.  In the northern hemisphere, it flowers from July to September high above the ground, proudly announcing the summer season. The tallest on record was found in Germany in 2014, at 9.17 m (the average is about 2 m). The flower at the far end of the straight, upward-reaching stem is also large. The largest one on record was grown in Canada in 1983, with a diameter of 82 cm. It is often referred to as the \"flower of the sun\" from its sunny shape and the fact that it turns to face the sun."
+ },
+ "36": {
+  "scale": "1.7 m",
+  "size": "1.7×10^0",
+  "magnitude": "0",
+  "name": "Mankind",
+  "text": "The human, who continues evolution as homo sapiens. This 'intellectual life form' uses tools and fire, speaks languages, builds civilizations, probes space with sophisticated technology, and works to unfathom the wonders of the microscopic world. Although height and physique vary by racial group, age group and by individual, our body height and weight fluctuate over the day. In the afternoon, our height decreases by 1-2 cm, while our weight increases by 2 kg, on average. The human body, with its meticulously precise mechanisms where a myriad of muscles, nerves, cells and the movement of mind correlate together , holds infinite potential."
+ },
+ "37": {
+  "scale": "50-60 cm",
+  "size": "5.5×10^-1",
+  "magnitude": "-1",
+  "name": "Dog",
+  "text": "The dog has been living with man since ancient times. This light golden-haired, soft-featured dog, in particular, is mild-mannered and has a strong sense of duty, thus is popular as a domestic dog. It is said to have originated in the latter half of 20th century England, a result of crossbreeding between the Flat-Coated Retriever and Tweed Water Spaniel. Golden Retrievers make superior hunting dogs, and are active in service and competitions."
+ },
+ "38": {
+  "scale": "77-92 cm",
+  "size": "8.5×10^-1",
+  "magnitude": "-1",
+  "name": "Chimpanzee",
+  "text": "The animal closest to the human. Some are even human-like in their gestures and expressions. It is believed that the chimpanzee shares a common ancestor with man, but branched off about 5 million years ago. It inhabits regions of western to central Africa. Chimpanzees display a characteristic use of tools, using branches to eat ants, or rocks to crack fruit open. By learning, they are capable of communicating with humans using sign language and graphic characters, and also show social behavior."
+ },
+ "39": {
+  "scale": "0.8-1.1 m",
+  "size": "0.95×10^0",
+  "magnitude": "0",
+  "name": "Turtle",
+  "text": "A reptile with a hard shell. Roughly 220 species populate the earth, on land, in ocean, or both. Of these, the loggerhead turtle, a large sea turtle, may exceed 1.2 m in shell length and 200 kg in weight. Its habitat ranges from temperate to subtropical oceans and it lays eggs at the highest latitude of all sea turtles. It lands on sandy beach to spawn and a single female can lay about 120 eggs. As coastal region developments progress worldwide, many turtles are losing their spawning grounds and their numbers are decreasing."
+ },
+ "40": {
+  "scale": "40-55 cm",
+  "size": "4.75×10^-1",
+  "magnitude": "-1",
+  "name": "Rabbit",
+  "text": "It senses danger with its long, freely moving ears, and is an excellent jumper and extremely agile. In northern Europe, it became a symbol of Easter, a celebration of spring, as its high fertility represents \"spring\" and \"rebirth.\" There are two main types: the hare and the coney. Coneys are kept as pets, while hares are mostly wild, nesting in hollows in the ground and bushes. A newborn baby rabbit is already fully furred, with eyes open, and is able to walk immediately."
+ },
+ "41": {
+  "scale": "22 cm",
+  "size": "2.2×10^-1",
+  "magnitude": "-1",
+  "name": "Soccer ball",
+  "text": "Soccer, the British-born sport that is now taking the world by storm. The name \"soccer\" comes from \"assoccer,\" the shortened version of its official name of \"association football.\" Only several countries, including Japan, still use this name to refer to the sport. The center of the feverish excitement and glory is the ball. It is extremely stable and sturdy, and in addition exhibits mid-air curving exactly in accordance with the laws of fluid dynamics. While the ball is typically a sphere consisting of twelve pentagons and twenty hexagons, variously designed balls developed to a construction of higher precision are currently being used. The size 5 ball is the official size, to be used in the World Cup."
+ },
+ "42": {
+  "scale": "12 cm",
+  "size": "1.2×10^-1",
+  "magnitude": "-1",
+  "name": "Optical disc (12 cm)",
+  "text": "A recording medium that utilizes a laser beam to read and write data. The polycarbonate disc has an outer diameter of 12 cm and a thickness of several mm. There are several types, including CD, DVD and Blu-ray, that all apply the same mechanism of etching data with concavity and convexity patterns and reading them with use of a laser beam. Users can use them to enjoy music and images as well as store information from a computer."
+ },
+ "43": {
+  "scale": "8.5 cm",
+  "size": "8.5×10^-2",
+  "magnitude": "-2",
+  "name": "Apple",
+  "text": "A deciduous tree of the family Rosaceae, native to the area from western Asia to southeastern Europe. The fruit is close to the heart of man, as the forbidden fruit eaten by Adam and Eve, and the fruit that triggered the British physicist Newton to discover the law of gravity. Most of the roughly 15,000 species in existence are grown in temperate zones worldwide. The variety called Fuji, popular in Japan, is approximately 8.5 cm in size. An apple harvested in England in 1997 weighed as much as 1.68 kg."
+ },
+ "44": {
+  "scale": "6-10 cm",
+  "size": "8×10^-2",
+  "magnitude": "-2",
+  "name": "Mouse",
+  "text": "An rodent mammal frequently seen all over the world with its unique feature of prodigious reproductive ability and incisor tooth that keeps growing in the course of its life cycle. Among them, the group of Mus musculus including house mouse, in particular, has a deep involvement with human beings and historically been treated as typical vermin as it was feared as a messenger of the devil. Nowadays however, as lab animal it has been contributing to us in the development of such fields as medical technologies."
+ },
+ "45": {
+  "scale": "3.2 cm",
+  "size": "3.2×10^-2",
+  "magnitude": "-2",
+  "name": "SD memory card",
+  "text": "Flash memory cards in formats standardized by SD Association. The full size card is 32 mm (length) x 24 mm (width) x 2.1 mm (thickness). There are 3 standard SD formats with different capacities available; SD (maximum 2 GB), SDHC (4 GB to 32 GB) and SDXC (32 GB to 2 TB), each with diverse transmission speed options. The cards also offer interoperability and compatibility with PCs, digital cameras and other devices, and support various applications. Due to diversified environmental variation with electronic devices, compact memory cards, such as the miniSD and microSD series are also available."
+ },
+ "46": {
+  "scale": "3-4 cm",
+  "size": "3.5×10^-2",
+  "magnitude": "-2",
+  "name": "Katydid",
+  "text": "An insect familiar to us as in \"The Ant and the Grasshopper\" (Aesop's Fables). In Japan, from early summer to fall, it can be heard singing in the grass, spreading a seasonal spirit. In England, it sounds like it is singing \"Katy did,\" and is thus familiarly referred to as a \"Katydid.\" Females have ovipositors the size of their abdomens, which they insert into the soil to lay their eggs at the end of summer. The eggs overwinter in the ground and hatch around the following Spring."
+ },
+ "47": {
+  "scale": "1.9 cm",
+  "size": "1.9×10^-2",
+  "magnitude": "-2",
+  "name": "Coin",
+  "text": "During the period of colonization by England, Americans' minting of their own coins was restricted. As a reaction to this situation, the U.S. monetary system was established rapidly upon gaining independence. The basic monetary unit employed was a decimal system proposed by Thomas Jefferson. The front of the penny depicts an image of Abraham Lincoln, the sixteenth American President, or the \"Father of Emancipation,\" while on the flip side the Lincoln Union Shield (renewed from the Lincoln Memorial design in 2010) is inscribed. It is made of 97.5% zinc and 2.5% copper."
+ },
+ "48": {
+  "scale": "1-1.3 cm",
+  "size": "1.3×10^-2",
+  "magnitude": "-2",
+  "name": "Bee",
+  "text": "There are over 120 thousand diverse species of bee worldwide. Of these, the honey bee exhibits unique behavior. In the bee's nest, one queen, about two thousand males, and several thousand worker bees operate a highly sophisticated and systematic social life. The life of a worker bee is short at about 40 days, but the queen lives for 3-5 years, and continues to lay 1000-1500 eggs every day. In the female-dominated honey bee society, male bees exist solely for the purpose of mating with the queen."
+ },
+ "49": {
+  "scale": "9-11 mm",
+  "size": "1×10^-2",
+  "magnitude": "-2",
+  "name": "Fly",
+  "text": "Diverse species of flies populate the world, ranging in size from 8-15 mm for the larger and 2-3 mm for the smaller. Their larvae frequently occur in animal feces and decayed organic material. In particular, the house fly, which inhabits human domestic areas, is about 9-11 mm in average length and is deemed a sanitary pest. The period required for newborn larvae to reach maturity and spawn is short, at twenty days, thus generation changes occur at the phenomenal rate of ten or more cycles per year. The housefly has compound eyes like the butterfly, dragonfly and honey bee, and thus sees a mosaic of the objects in its view."
+ },
+ "50": {
+  "scale": "5-8.6 mm",
+  "size": "6.8×10^-3",
+  "magnitude": "-3",
+  "name": "Ladybird",
+  "text": "The adult is a semispherical small beetle. Most are several millimeters to a centimeter in size, and vary widely in color and number of dots. The English name \"ladybird\" is traced to the Virgin Mary, and the insect is regarded world over as a symbol of happiness. Many species that eat crop leaves are despised as pests, while others, like the seven-spotted ladybird that consumes aphids and controls plant diseases is considered a beneficial insect. In recent years, the seven-spotted ladybird has been increasingly utilized as a means of pest control taking advantage of its feeding habit, by artificially letting them loose in fields."
+ },
+ "51": {
+  "scale": "5.5 mm",
+  "size": "5.5×10^-3",
+  "magnitude": "-3",
+  "name": "Mosquito",
+  "text": "There are a total of roughly 2500 species. They are sanitary pests who pass on pathogenic agents by sucking blood from humans and others using their long probosces. However, only the females suck blood in order to take in high-quality protein to spawn. The house mosquito is said to suck blood in an amount equal to its own body weight, and is active mainly from dusk to dawn. It relishes birds in addition to humans. The West Nile Fever which broke out in New York in 1999 was transmitted mainly by the house mosquito and the effects of the virus are believed to have been amplified by such birds as crows."
+ },
+ "52": {
+  "scale": "4-6 mm",
+  "size": "4.5×10^-3",
+  "magnitude": "-3",
+  "name": "Ant",
+  "text": "As ants live in communities of large numbers, they are referred to as 'social insects.' They form sophisticated and hierarchic societies, and inhabit a wide range of areas from tropical areas to cool temperate zones by adapting to the environments. They are strong, able to use their large jaws to carry objects many times their own size. The black mountain ants which we commonly see in Japan are worker ants, having a body length of 4-6 mm, while the queen ant is 1 cm or larger (the figure shows a worker ant). As many as 16 thousand or more work ants may live in a single burrow which is usually 2-4 meters deep."
+ },
+ "53": {
+  "scale": "0.6-2 mm",
+  "size": "1.3×10^-3",
+  "magnitude": "-3",
+  "name": "Water flea",
+  "text": "A zooplankton belonging to the crustacean class along with prawns and crabs. The Daphnia galeata species has a characteristic pointed casque-like head. The species that populates ponds where they have few natural enemies such as fish, have round heads. It is believed that this pointed headpiece evolved as a means of self protection. The water flea has eyes, a heart and reproductive organs, all built into its tiny body. It swims by beating against the water using a second antenna called the swimmeret."
+ },
+ "54": {
+  "scale": "1.2-2 mm",
+  "size": "1.6×10^-3",
+  "magnitude": "-3",
+  "name": "Flea",
+  "text": "Fleas are parasites that live off warm-blooded animals by sucking blood from their hosts. Many species are transmitters of infectious agents. In medieval Europe, the rat flea which carried the plague bacillus caused the Black Death plague. The flea has a unique mechanism for sucking blood whereby it pierces the host with the lacinia in its mandibles and activates two pumps: one to suck blood and another to send in saliva to prevent the blood from clotting. The flea is also a good jumper, capable of reaching heights up to 150 times or more of its own height in a single jump using a protein called resilin in its hind legs."
+ },
+ "55": {
+  "scale": "1 mm",
+  "size": "1×10^-3",
+  "magnitude": "-3",
+  "name": "Snow Crystal",
+  "text": "An art object produced by nature, whereby no two are ever identical in shape. They come in various forms, from thin hexagons, to six branches stretching out in a star-like or tree-like fashion, or hexagonal cylinders. They are normally 0.1-5 mm in size, but in rare cases can exceed 10 mm. Crystals of size 0.1 mm or smaller are called frazil, and are the seeds of snow crystals. As the shape of a snow crystal reveals the path in which it has grown and fallen, we can know of the weather conditions (temperature and humidity) of the upper-level air by observing the snow crystal itself. The German astronomer Johannes Keppler noted the fact that snow crystals are hexagonal in shape, and was the first to explain why they are so."
+ },
+ "56": {
+  "scale": "3 mm",
+  "size": "3×10^-3",
+  "magnitude": "-3",
+  "name": "Sesame seed",
+  "text": "An annual plant. The stem having a square cross-section grows to about 1 m in height. The sesame that we commonly consume as food is the seed that has fallen from the matured shell. The thickness of a grain is about 1 mm, with a length of 3 mm and a width of 1.5 mm. This small seed has a high protein, carbohydrate, fat and vitamin E content. White sesame, in particular, has a high fat content at 50-55 percent, and is thus used for its oil."
+ },
+ "57": {
+  "scale": "0.5-1.0 mm",
+  "size": "8.5×10^-4",
+  "magnitude": "-4",
+  "name": "Tick / mite",
+  "text": "The general name for the mite and tick order. They feed parasitically on plants and animals. The body has a degenerate structure (capitula, prosoma and metasoma), and there is no distinction between the head, chest, or abdomen. The larva has only 3 pairs of legs (6 legs), but the adult tick has 4 pairs (8 legs). It inhabits the world over. The size of the house dust mite, which causes considerable itching in its victim when it bites and sucks blood, is only 0.5-1 mm, a size barely perceivable by the naked eye."
+ },
+ "58": {
+  "scale": "200-500 μm",
+  "size": "3.5×10^-4",
+  "magnitude": "-4",
+  "name": "Ameba",
+  "text": "A type of single-celled animal organism that consists entirely of one cell, found in the dirt and soil at the bottom of lakes and swamps. It is amorphous, and travels by stretching its body in a gelatinous fashion, into a shape that is referred to as a pseudopod. The pseudopod is also used to intake bacteria, other protozoans and algae. At the beginning of cell division of an amoeba, numerous protrusions form around its body and the cell eventually becomes pinched, then divides into two. The typical species of Amoeba proteus divides in roughly 30 minutes. \"Amoeba\" is Greek for \"change.\""
+ },
+ "59": {
+  "scale": "170-290 μm",
+  "size": "2.3×10^-4",
+  "magnitude": "-4",
+  "name": "Paramecium",
+  "text": "A type of single-celled animal organism that consists entirely of one cell. It occurs in rivers, ponds and rice paddies, traveling by moving the fine cilia which cover its body. It consumes mainly bacteria using the horn-shaped mouth in its center, and excretes waste and excess water through its cytopyge. Although it is capable of dividing to multiply by itself, it possesses a genetically fixed duration of life (limited number of divisions), thus, repeated division would only lead to its extinction. However, this organism has the unique ecology of being capable of rejuvenating by sexual reproduction with another independent cell."
+ },
+ "60": {
+  "scale": "120 μm",
+  "size": "1.2×10^-4",
+  "magnitude": "-4",
+  "name": "Ovum",
+  "text": "The ovum is the largest cell within the human body. It is about 200 micrometer in diameter and is visible to the naked eye. The cells (called oocytes) which are the basis of ovums are already present in the ovaries of a newborn baby girl. No new oocytes are ever produced after birth. At 16-20 weeks of pregnancy, there are already 6-7 million oocytes in the ovaries of the female embryo, the majority of which gradually disappear. In other words, ovums may be called the longest-living cells in the human body."
+ },
+ "61": {
+  "scale": "100 μm",
+  "size": "1×10^-4",
+  "magnitude": "-4",
+  "name": "Closterium",
+  "text": "A green algae with a characteristic gently curving crescent shape. It is a typical genus of the group of single-celled plant organisms called desmids, and consists of approximately 80 known species. The fine feathery substance seen on the surface of the dirt at the bottom of wetlands, lakes, and swamps is actually this closterium. Although it has no stem or leaves, it possesses chloroplasts inside its body and lives by photosynthesis, thus, is a bona fide plant."
+ },
+ "62": {
+  "scale": "10-1000 μm",
+  "size": "5.5×10^-5",
+  "magnitude": "-5",
+  "name": "Micro-electromechanical device",
+  "text": "Micro-scale devices (about 1 micrometer - 1 mm) such as structures, sensors and actuators, produced using semiconductor manufacturing technology. Nikon has developed its own technology for MEMS device manufacturing by laminating film in multiple layers, and has applied the technology to the development of such devices as IR sensors and optical switches. Using this method, a different function can be attributed to each layer, allowing the production of a high-performance, high-density MEMS with (relative) ease."
+ },
+ "63": {
+  "scale": "10-100 μm",
+  "size": "5.5×10^-5",
+  "magnitude": "-5",
+  "name": "Micro-precision optical device",
+  "text": "An optical part consisting of a small optical device with small lenses, with a diameter of between several dozen to hundred micrometers, arranged on its surface. It is used for feeding light into, or retrieving light from, extra-fine optical fibers. For example, the CCD and CMOS used in digital cameras and such are producing finer images as their resolution improves. However, given a CCD or other device of the same size, increasing the number of pixels decreases the size of each element and thus reduces the amount of received light, leading to noise in the recorded image. MLAs which collect light efficiently are used to resolve this problem."
+ },
+ "64": {
+  "scale": "30 μm",
+  "size": "3×10^-5",
+  "magnitude": "-5",
+  "name": "Pollen",
+  "text": "The male sex cell, corresponding to sperm cells in animals. The male sex cells of the Japanese cedar pollen range in shape from circular, elliptical to triangular, and are diverse in color as well. The male sex cells of the maidenhair tree (gingko) actually move like human sperm cells. The pollen of the Japanese cedar, Japanese cypress, and Gramineae plants are well known as seasonal allergens. Pollen allergy is sometimes referred to as hay fever in Europe and the United States, a relic from the time before this illness was found attributable to pollen."
+ },
+ "65": {
+  "scale": "60 μm",
+  "size": "6×10^-5",
+  "magnitude": "-5",
+  "name": "Sperm",
+  "text": "It is shaped like a tadpole, with the nucleus dominating the majority of the head. Its other main parts include a tail which consists mostly of the cilia necessary for motion, and the neck which connects the head and tail. The head of a human sperm cell is shaped like an elliptical pear, with a major axis of about 4-5 micrometer, and minor axis of about 2.5-3.5 micrometer. In humans, 1-6 cc of semen, containing 60-100 million sperm cells per cc, is discharged per ejaculation."
+ },
+ "66": {
+  "scale": "6-20 μm",
+  "size": "1.3×10^-5",
+  "magnitude": "-5",
+  "name": "White blood cell",
+  "text": "A cellular component of blood. White blood cells protect the body from infection, by ingesting the microbes that enter the body or by producing antibodies. They are normally distributed throughout the body, but when a single white blood cell finds an infected or trouble site, it calls over scores of others. These colorless, nucleated cells are categorized into three types: granulocytes, monocytes, and lymphocytes. They are larger than red blood cells but far fewer in number. They are named white blood cells from the fact that when collected in masses they appear white."
+ },
+ "67": {
+  "scale": "7-12 μm",
+  "size": "9×10^-6",
+  "magnitude": "-6",
+  "name": "Lymphocyte",
+  "text": "Spherical cells, classified into either large or small lymphocytes. The lymphocyte content of peripheral blood leukocytes is about 30%, while almost all of the lymph fluid flowing through the body consists of lymphocytes. The lymph gland which becomes swollen when we have a cold is the passage for lymph fluid. Lymphocytes have a memory of any foreign bodies that previously entered the body, and react immediately and aggressively against specific foreign bodies in order to protect the body. It is owing to this immune system mechanism that we do not contract chickenpox or the measles twice."
+ },
+ "68": {
+  "scale": "10 μm",
+  "size": "1×10^-5",
+  "magnitude": "-5",
+  "name": "Chromosome",
+  "text": "Carriers, of genetic material consisting of DNA and protein, which communicate information (genetic) that passes on the characteristics of the parents (previous generation). Chromosomes differ in number and shape by species. Twenty-three pairs (46 single) of chromosomes are contained in the nucleus of a human body cell. Numbers 1 through 22 are called autosomes while the 23rd is called the sex chromosome as it determines gender. An X and X combination of this sex chromosome produces a female, and an X and a Y combination, a male. The English name originates from the Greek word that means \"color\" and \"body.\""
+ },
+ "69": {
+  "scale": "7-8 μm",
+  "size": "7×10^-6",
+  "magnitude": "-6",
+  "name": "Red blood cell",
+  "text": "Red blood cells are a component of blood. The name comes from the fact that they appear a red color when in masses, as they contain the oxygen-carrying protein, hemoglobin (blood pigment). The reason blood appears red is that the red blood cells are literally red. They carry oxygen required for energy production from the lungs to other parts of the body, and in turn bring the toxic carbon dioxide back to the lungs. A normal red blood cell is a flat disc shape with a thin center. Red blood cells constitute 40-50% of total blood volume."
+ },
+ "70": {
+  "scale": "0.5-10 μm",
+  "size": "3×10^-6",
+  "magnitude": "-6",
+  "name": "Lactic acid bacteria",
+  "text": "The general name used to refer to the bacteria that produce lactic acid when decomposing sugar during fermenting, such as lactobacillus and bifidobacteria. As this lactic acid is believed to aid digestion and prevent infection in the intestinal tract, as well as improve the balance of intestinal bacterial flora, these bacteria are known as 'good bacteria.' Lactobacillus can survive in every nook and cranny of nature; they exist in the mouth and gastrointestinals of humans. Many types of lactobacillus, including lactobacillus bulgaricus, are used in fermented foods such as cheese and yoghurt, as well as in lacto acid bacteria drug products."
+ },
+ "71": {
+  "scale": "5-10 μm",
+  "size": "7.5×10^-6",
+  "magnitude": "-6",
+  "name": "Yeast",
+  "text": "The majority of yeasts decompose sugars and carry out alcoholic fermentation. Since long ago, this property has been utilized to produce alcoholic beverages. Among them, wine yeasts produce wine out of grape juice. The characteristics of the yeast best suited to wine-making enable the creation of a unique, rich flavor. No good wine can ever be made using a wine yeast of bad character, no matter how good the grapes or how careful the processes are."
+ },
+ "72": {
+  "scale": "300 nm",
+  "size": "3×10^-7",
+  "magnitude": "-7",
+  "name": "Collagen",
+  "text": "A type of protein that makes up our bones and teeth, cartilage and intervertebral disks, blood vessels and skin, as well as cells. It is often added to health foods and cosmetics for its expected rejuvenating effects on the skin and hair, such as moisturizing the skin. Collagen makes up 20-30% of the total protein content in mammals, constituting cartilage and tendons. Type I collagen is a long fibrous collagen with a molecular weight of about 300 thousand, and length of approximately 300 nm. Adjacent collagen fibers overlap every 64 nm and pull on each other to maintain strength. The collagen fibers constituting tendons are said to have a strength equivalent to that of a copper wire pulled taut."
+ },
+ "73": {
+  "scale": "2-4 μm",
+  "size": "2×10^-6",
+  "magnitude": "-6",
+  "name": "Colibacillus",
+  "text": "A bacteria which is invariably present in the large intestines of any healthy person and many warm-blooded animals. It is approximately 0.4-0.7 micrometer wide and 2-4 micrometer long. There are many types of colibacillus, most of which are harmless as long as they stay within the intestines, but which may cause infection in other organ outside of the intestines. There are also highly toxic, pathogenic bacteria which cause diarrhea and enteritis by merely entering the intestines."
+ },
+ "74": {
+  "scale": "1.5 μm",
+  "size": "1.5×10^-6",
+  "magnitude": "-6",
+  "name": "Single-electron transistor",
+  "text": "Approximately 100 thousand conventional transistors are required for on/off control of electric current, whereas a single-electron transistor (SET) can do it alone. In 1999, NTT (Nippon Telegraph and Telephone Corporation) became the first in the world to succeed in sample-producing a basic computer circuit by integrating single-electron transistors. Two transistors were created side by side in extreme proximity to realize an ultra-compact inverter circuit, of about 0.1 x 0.2 micrometer core size, and a square of side approximately 1.5 micrometer including electrical connections."
+ },
+ "75": {
+  "scale": "1-2 μm",
+  "size": "1.5×10^-6",
+  "magnitude": "-6",
+  "name": "Mitochondria",
+  "text": "A cell organelle present within the cytoplasm of all organisms, with the exception of bacteria and blue-green algae. It has its own DNA and self-replicates. It is responsible for respiration and energy production, and is sometimes referred to as the 'respirator of the cell.' It is cylindrical or spherical in shape. Mitochondria are present in both the ovum and sperm cell, but only those from the ovum are passed on to the fertilized ovum. It is owing to this trait of mitochondria that we are able to track the ancestry of organisms."
+ },
+ "76": {
+  "scale": "80-120 nm",
+  "size": "1×10^-7",
+  "magnitude": "-7",
+  "name": "Influenza virus",
+  "text": "The viruses that cause influenza (flu). They are spherical or tubular in shape, with diameters of approximately 80-120 nm, and are classified broadly into Types A, B and C. The reason that a global outbreak of Type A occurs about every ten years, is that it is contracted across various species, including humans, birds, pigs, and horses, leading to the birth of a subtype. In contrast, Types B and C only infect humans, thus there is no risk of a subspecies being produced. Although there is no effective causal therapy, it clears up naturally in about a week so long as no complications such as pneumonia arise."
+ },
+ "77": {
+  "scale": "100-140 nm",
+  "size": "1.2×10^-7",
+  "magnitude": "-7",
+  "name": "AIDS virus",
+  "text": "The pathogenic virus of acquired immune deficiency syndrome (AIDS), categorized into two types: HIV-1 and HIV-2. When infected, lymphocytes, which are a type of white blood cell, are continually destroyed, breaking down the immune system of the body and making it susceptible to infectious agents. HIV is known to be non-contagious through, for example, light contact experienced at the work place, school, or the household, and even through some extent of close contact. There are no reported cases of transmission through the coughing or sneezing of infected patients, nor through carriers such as mosquitoes. Proper public understanding regarding the routes of transmission and etiology of the disease is required."
+ },
+ "78": {
+  "scale": "40-50 nm",
+  "size": "4×10^-8",
+  "magnitude": "-8",
+  "name": "Yellow fever virus",
+  "text": "The name \"yellow fever\" comes from the fact that it attacks the human liver and causes jaundice, a yellowish pigmentation of the skin. Records of this disease date back as far as the 17th-18th centuries. At the time, jaundice was considered to be caused by bacteria, dwellers of the micrometer world. The existence of the virus, more minute than bacteria, was experimentally proven by 1900, and a vaccine was developed in 1937. Since the development of the electron microscope in the 1950's, we have become able to visually confirm the existence of the virus instead of merely hypothesizing about it in the experimental world."
+ },
+ "79": {
+  "scale": "20 nm",
+  "size": "2×10^-8",
+  "magnitude": "-8",
+  "name": "LSI (large scale integrated circuit)",
+  "text": "The latest generation of advanced electronic devices, including personal computers and cell phones, use integrated circuits fabricated with a minimum line width of as small as 20 nanometers. As the line width is decreased, the number of transistors on a semiconductor chip can be increased, resulting in dramatic increases in the chip performance allowing the electronic devices to be made more compact. Microfabrication technology plays an important role in achieving such highly integrated circuitry. In Nikon's semiconductor lithography systems, which play a fundamental role in the manufacturing process of semiconductor chips, light illuminates a glass master plate inscribed with a circuit pattern to reduce the image of the master onto a semiconductor wafer, making multiple copies of the pattern."
+ },
+ "80": {
+  "scale": "10 nm",
+  "size": "1×10^-8",
+  "magnitude": "-8",
+  "name": "Protein",
+  "text": "A substance which makes up muscle tissue and internal organs, a substance fundamental to life. The English name \"protein\" originates from the Greek word meaning \"primary\" and \"important.\" By identifying the structure of a protein, the potential opens for the development of effective new drugs responsive to that protein. In addition, as the properties of protein vary minutely among individuals -- as is seen in fingerprints, if the structure is revealed, then a type of 'order-made medical care' may be achieved. Protein is a substance that constitutes life, and which holds the key to the secret of life. \u203b Referencing image source : \u00a9 Protein data bank japan (PDBj) licensed under CC-BY-4.0 International"
+ },
+ "81": {
+  "scale": "1-100 nm",
+  "size": "1×10^-8",
+  "magnitude": "-8",
+  "name": "Dendrimer",
+  "text": "The general name used to refer to macromolecular compounds (substances with a high molecular weight) having a spherical structure, with molecules connected in branches stemming from their respective nuclei. The name comes from \"dendron (tree)\" in Greek. It was first discovered in 1984. The size and properties of the molecule can easily be changed, thus it holds potential for application in diverse fields. For example, in medicine, it may be applied to drugs that remain undissolved until they reach the affected part, or used in artificial red blood cells, and in electronics/optics, to solar batteries and displays (screens)."
+ },
+ "82": {
+  "scale": "1-1000 nm",
+  "size": "3.3×10^-9",
+  "magnitude": "-9",
+  "name": "Nanoparticles",
+  "text": "Some well-known substances, when scaled down to nanoscale size, exhibit new functions and properties that differ from those in their natural state. These substances are generally referred to as nanoparticles. For example, the nanoparticle of gold, or the metal gold (Au) downsized to the nanoscale, emits colors other than gold such as red and black, depending on diameter, thus can be used in applications such as laser-irradiated color markings. In addition, nanoparticles that scatter UV rays are used in cosmetic products, demonstrating the diverse areas of their application."
+ },
+ "83": {
+  "scale": "2 nm",
+  "size": "2×10^-9",
+  "magnitude": "-9",
+  "name": "DNA (Deoxyribonucleic acid)",
+  "text": "The substance that determines the genetic information of all organisms on the earth. It is well known for its double helix structure, which enables it to replicate itself in order to transmit genetic information. DNA consists of the four bases of adenine, guanine, cytosine and thymine, the combination of which defines the appearance and constitution of organisms. A joint team of members from six countries had been engaged in an international cooperative effort to determine the complete sequence of the approximately 3 billion bases, and after roughly 15 years, on April 14, 2003, announced it had successfully mapped the human genome (complete genetic information of humans). This announcement came 50 years after the groundbreaking discovery of the double helix structure of DNA in April of 1953."
+ },
+ "84": {
+  "scale": "1 nm",
+  "size": "1×10^-9",
+  "magnitude": "-9",
+  "name": "Carbon nanotube",
+  "text": "A cylindrical tube formed by carbons in a netted structure. It is about 1 nanometer thick, with a length several thousand times its thickness. It has a strength about 20 times that of steel, with half the weight of aluminum, and exhibits phenomenal tensile strength in the direction of the fibers. With these traits, it could enable cargo shipments between space and the earth, making it a technical innovation in which interest is growing. It is a 'dream substance,' whose diverse properties -- such as heat resistance to endure 2000 degrees Celsius under specific conditions, or highly efficient heat transmission -- could potentially contribute to resolving our energy problems."
+ },
+ "85": {
+  "scale": "710 pm",
+  "size": "7.1×10^-10",
+  "magnitude": "-10",
+  "name": "Fullerene",
+  "text": "A molecule consisting of carbon atoms bonded in a soccer ball-like structure. It is extremely stable, and is referred to as the \"third carbon\" next to graphite and diamond. Professor Kroto and his group who discovered it received the Nobel Prize for Chemistry in 1996. It is anticipated that it will be used in medical fields, such as in eliminating bodily active oxygen, which jeopardizes health and beauty, or in stopping the action of enzymes required by the AIDS virus for its proliferation."
+ },
+ "86": {
+  "scale": "500 pm",
+  "size": "5×10^-10",
+  "magnitude": "-10",
+  "name": "Amino acid",
+  "text": "Organic compounds constituting proteins that are fundamental to the sustenance of life. There are more than 500 amino acids. Of these, glutamic acid, which is familiar to us as a synthetic seasoning, was named after the fact that it was isolated by hydrolysis from a protein called gluten found in wheat, by the German, Ritthausen, in 1866. It is a nonessential amino acid which plays an important role as a neurotransmitter in memory and learning."
+ },
+ "87": {
+  "scale": "100 pm",
+  "size": "1×10^-10",
+  "magnitude": "-10",
+  "name": "Atom",
+  "text": "There are more than 90 types of atoms (called elements). Each atom of an element consists of a nucleus with a specific positive charge, and a specific number of electrons. The hydrogen atom (protium), having the simplest structure of all atoms, is composed of a single electron orbiting a nucleus consisting of a single proton. In 1766, the British chemist/physicist Henry Cavendish became the first in the world to discover hydrogen. Later, the French chemist Lavoisier confirmed the generation of hydrogen from water, and named it the \"hydrogen atom\" based on the Greek words \"hydor (water)\" and \"gennao (generate).\" The word \"atom\" is traced to the Greek word \"atmos (something that can not be divided).\""
+ },
+ "88": {
+  "scale": "1-10 fm",
+  "size": "1×10^-14",
+  "magnitude": "-14",
+  "name": "Atomic nucleus",
+  "text": "It is positioned in the center of an atom. Nuclear particles consist of a single proton in the case of the hydrogen atom (protium), and protons and neutrons in the case of other atoms. To demonstrate the scale, imagine the atomic nucleus amplified to the size of a golf ball of diameter of about 40 mm, in which case the atom itself would be roughly 400 meters, corresponding to the size of one hole in the golf course. It is a well known fact that in electric power generation, atomic energy is generated by splitting the nucleus of substances such as uranium and plutonium. The phenomenon of nuclear fission was discovered in 1938 by a German physicist Otto Hahn, who later received the Nobel Prize for Chemistry in 1944."
+ },
+ "89": {
+  "scale": "1 fm",
+  "size": "1×10^-15",
+  "magnitude": "-15",
+  "name": "Neutron",
+  "text": "An elementary particle which constitutes the atomic nucleus together with the proton. It is slightly heavier in mass (0.14%) than the proton. With the single exception of the hydrogen atom (protium), atomic nuclei consist of protons and neutrons. The neutron possesses a minute magnetism. It is utilized in nuclear energy-related applications, being a requisite for the activation of the nuclear power reactor. It can also be applied in analyzing the properties of substances, by hitting targets with a neutron beam and observing scattered neutrons. Potentially, it is being considered for other applications such as protein analysis in life sciences, and visualization and inspection of high-technology products in industry. The neutron was discovered in 1932 by the British physicist James Chadwick, who later received the Nobel Prize for Physics in 1935."
+ },
+ "90": {
+  "scale": "1 fm",
+  "size": "1×10^-15",
+  "magnitude": "-15",
+  "name": "Proton",
+  "text": "An elementary particle composing the atomic nucleus. It is the most fundamental component of matter, and was named the proton after the Greek word \"protos\" meaning \"the first\". The proton can be utilized in medicine to treat diseases. For example, as the positive charge of the proton acts on the atoms (electrons) in the matter constituting the human body, the proton beam can be used to hit focuses such as cancerous cells within the body to treat them."
+ },
+ "91": {
+  "scale": "1.4 billion km",
+  "size": "1.4×10^12",
+  "magnitude": "12",
+  "name": "Betelgeuse",
+  "text": "Betelgeuse is a distinctly reddish, first-magnitude variable star in the constellation of Orion. Its distance from Earth is estimated to be 640 light years, and its mass and diameter are approximately 1000 times that of our Sun. If Betelgeuse were at the center of our Solar System, its surface would perhaps extend to the orbit of Jupiter. Betelgeuse is old for its size class and is expected to explode relatively soon."
+ },
+  "92": {
+  "scale": "540 pm",
+  "size": "5.4×10^-10",
+  "magnitude": "-10",
+  "name": "Silicon crystal",
+  "text": "Silicon (atomic symbol Si), the substance found in the highest content in rocks on Earth. It is well known as a material for semiconductors, which constitute the heart of high-technology products such as PCs, cell phones, and digital cameras. The purity required of the silicon crystals used for such industrial purposes is 99.99999999%. Although silicon was originally just a semiconductor material, it has become a symbol representing high technology, as demonstrated by its use in names such as \"Silicon Valley\"."
+ }
+}
