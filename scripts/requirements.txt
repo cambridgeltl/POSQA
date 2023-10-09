@@ -1,0 +1,8 @@
+transformers
+git+https://github.com/huggingface/peft.git
+datasets
+accelerate
+bitsandbytes
+loralib
+openai
+scikit-learn
