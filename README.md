@@ -16,7 +16,14 @@
 This repository is based on our publication *POSQA: Probe the World Models of LLMs with Size Comparisons* ([PDF](https://arxiv.org/abs/2310.13394)).
 
 ```
-BibTex
+@misc{shu2023posqa,
+      title={POSQA: Probe the World Models of LLMs with Size Comparisons}, 
+      author={Chang Shu and Jiuzhou Han and Fangyu Liu and Ehsan Shareghi and Nigel Collier},
+      year={2023},
+      eprint={2310.13394},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 ## Overview
